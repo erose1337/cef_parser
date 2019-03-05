@@ -76,3 +76,7 @@ None - `cefparser` does not even import any modules from the python standard lib
 Download [the .zip from github](https://github.com/erose1337/cef_parser/archive/master.zip) and run `sudo python setup.py install` (`sudo` not applicable on Windows)
 
 Installation via `pip` currently unavailable
+
+# Is there a standard for this file type? Why have I never heard of this before?
+
+No. It is a generalization of a file format I made while writing a different program, and I figured it might be generally useful.
